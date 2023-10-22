@@ -1,5 +1,5 @@
 
-<!-- n to open the modal login form -->
+
 <button onclick="document.getElementById('id01').style.display='block'">Login</button>
 
 <!-- The Modal -->
